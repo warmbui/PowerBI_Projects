@@ -1,5 +1,5 @@
 # PowerBI_Projects
-Project Name	Description	Link
+
 Call Centre Performance Report
 Overview
 This Power BI dashboard provides key insights into Claire's call center performance, covering critical KPIs such as customer satisfaction, call handling efficiency, and agent performance.
