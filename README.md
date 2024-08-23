@@ -10,4 +10,4 @@ Calls Answered/Abandoned: Pie chart comparing answered vs. abandoned calls.
 Calls by Time: Heat map of call volumes across different times of day.
 Agent Performance Quadrant: Scatter plot comparing average handle time vs. calls answered per agent.
 Data Sources
-The dashboard uses data from call logs, customer feedback, and agent performance metrics.
+The dashboard uses call logs, customer feedback, and agent performance metrics.
