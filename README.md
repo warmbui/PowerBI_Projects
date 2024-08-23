@@ -10,11 +10,11 @@ Key Features
 
 Customer Satisfaction: Gauge showing average satisfaction scores.
 
-Calls Answered/Abandoned: Pie chart comparing answered vs. abandoned calls.
+Calls Answered/Abandoned: Visual comparing answered vs. abandoned calls.
 
-Calls by Time: Heat map of call volumes across different times of day.
+Calls by Time: Line graph of call answeredin seconds
 
-Agent Performance Quadrant: Scatter plot comparing average handle time vs. calls answered per agent.
+Agent Performance Quadrant: visual comparing average handle time vs. calls answered per agent.
 
 Data Sources
 
